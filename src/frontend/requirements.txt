@@ -18,7 +18,7 @@ google-cloud-monitoring==1.1.0  # via opentelemetry-exporter-google-cloud
 google-cloud-trace==0.24.0  # via opentelemetry-exporter-google-cloud
 googleapis-common-protos==1.52.0  # via google-api-core
 grpcio==1.30.0            # via google-api-core
-gunicorn==20.0.4          # via -r requirements.in
+gunicorn==21.2.0          # via -r requirements.in
 idna==2.9                 # via requests
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.1            # via flask, opentelemetry-instrumentation-jinja2
